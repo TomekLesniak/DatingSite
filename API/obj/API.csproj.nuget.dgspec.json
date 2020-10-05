@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\james\\source\\repos\\DatingSite\\API\\API.csproj": {}
+    "C:\\Users\\james\\source\\repos\\DatingSite\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\james\\source\\repos\\DatingSite\\API\\API.csproj": {
+    "C:\\Users\\james\\source\\repos\\DatingSite\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\james\\source\\repos\\DatingSite\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\james\\source\\repos\\DatingSite\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\james\\source\\repos\\DatingSite\\API\\API.csproj",
+        "projectPath": "C:\\Users\\james\\source\\repos\\DatingSite\\api\\API.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\james\\source\\repos\\DatingSite\\API\\obj\\",
+        "outputPath": "C:\\Users\\james\\source\\repos\\DatingSite\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,6 +44,16 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0-rc.1.20451.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0-rc.1.20451.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
