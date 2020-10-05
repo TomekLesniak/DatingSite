@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\james\\source\\repos\\DatingSite\\api\\API.csproj": {}
+    "C:\\Users\\james\\source\\repos\\DatingSite\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\james\\source\\repos\\DatingSite\\api\\API.csproj": {
+    "C:\\Users\\james\\source\\repos\\DatingSite\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\james\\source\\repos\\DatingSite\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\james\\source\\repos\\DatingSite\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\james\\source\\repos\\DatingSite\\api\\API.csproj",
+        "projectPath": "C:\\Users\\james\\source\\repos\\DatingSite\\API\\API.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\james\\source\\repos\\DatingSite\\api\\obj\\",
+        "outputPath": "C:\\Users\\james\\source\\repos\\DatingSite\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
