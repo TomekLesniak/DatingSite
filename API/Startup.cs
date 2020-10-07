@@ -34,8 +34,6 @@ namespace API
                 options.UseSqlite(_config.GetConnectionString("DefaultConnection"));
             });
 
-            services.AddCors();
-
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -58,6 +56,8 @@ namespace API
             app.UseRouting();
             app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
             
+
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
