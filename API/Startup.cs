@@ -54,9 +54,14 @@ namespace API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+<<<<<<< HEAD
             app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
             
 
+=======
+
+            app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200"));
+>>>>>>> parent of d3c7b9e... ssl key
 
             app.UseAuthorization();
 
