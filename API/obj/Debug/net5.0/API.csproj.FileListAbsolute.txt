@@ -51,3 +51,11 @@ C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\runtimes\win-x64\nat
 C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Humanizer.dll
 C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\james\source\repos\DatingSite\api\bin\Debug\net5.0\Newtonsoft.Json.dll
