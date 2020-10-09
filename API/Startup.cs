@@ -55,9 +55,14 @@ namespace API
 
             app.UseRouting();
 <<<<<<< HEAD
+<<<<<<< HEAD
             app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
             
 
+=======
+
+            app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200"));
+>>>>>>> parent of d3c7b9e... ssl key
 =======
 
             app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200"));
